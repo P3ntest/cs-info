@@ -1,0 +1,105 @@
+{
+    "map": {
+            "mode": "competitive",
+            "name": "de_anubis",
+            "phase": "live",
+            "round": 0,
+            "team_ct": {
+                    "score": 0,
+                    "name": "X-RAY | GAMING",
+                    "consecutive_round_losses": 1,
+                    "timeouts_remaining": 1,
+                    "matches_won_this_series": 0
+            },
+            "team_t": {
+                    "score": 0,
+                    "consecutive_round_losses": 1,
+                    "timeouts_remaining": 1,
+                    "matches_won_this_series": 0
+            },
+            "num_matches_to_win_series": 0,
+            "current_spectators": 0,
+            "souvenirs_total": 0
+    },
+    "player": {
+            "steamid": "76561198394005327",
+            "clan": "[ X-RAY ]",
+            "name": "P3ntest",
+            "observer_slot": 1,
+            "team": "CT",
+            "activity": "playing",
+            "match_stats": {
+                    "kills": 0,
+                    "assists": 0,
+                    "deaths": 0,
+                    "mvps": 0,
+                    "score": 0
+            },
+            "state": {
+                    "health": 100,
+                    "armor": 0,
+                    "helmet": false,
+                    "flashed": 0,
+                    "smoked": 0,
+                    "burning": 0,
+                    "money": 800,
+                    "round_kills": 0,
+                    "round_killhs": 0,
+                    "equip_value": 200
+            },
+            "weapons": {
+                    "weapon_0": {
+                            "name": "weapon_knife",
+                            "paintkit": "default",
+                            "type": "Knife",
+                            "state": "holstered"
+                    },
+                    "weapon_1": {
+                            "name": "weapon_usp_silencer",
+                            "paintkit": "cu_usp_progressiv",
+                            "type": "Pistol",
+                            "ammo_clip": 12,
+                            "ammo_clip_max": 12,
+                            "ammo_reserve": 24,
+                            "state": "active"
+                    }
+            }
+    },
+    "provider": {
+            "name": "Counter-Strike: Global Offensive",
+            "appid": 730,
+            "version": 13763,
+            "steamid": "76561198394005327",
+            "timestamp": 1597087402
+    },
+    "round": {
+            "phase": "freezetime"
+    },
+    "previously": {
+            "map": {
+                    "team_ct": {
+                            "consecutive_round_losses": 0
+                    },
+                    "team_t": {
+                            "consecutive_round_losses": 0
+                    }
+            },
+            "round": {
+                    "phase": "over"
+            }
+    },
+    "added": {
+            "map": {
+                    "team_ct": {
+                            "name": true
+                    }
+            },
+            "player": {
+                    "observer_slot": true
+            }
+    },
+    "auth": {
+            "key1": "rx5w2bXmCCWJu6"
+    }
+}
+

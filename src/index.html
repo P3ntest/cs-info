@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Cs:Info</title>
+  <link rel="stylesheet" href="index.css">
+  <script src="renderer.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Sawarabi+Gothic&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <div class="main-wrapper">
+    <div class="frame-bar">
+    </div>
+    <div class="activity-container">
+      <div class="activity" id="ac-menu" style="display: none;">yey</div>
+      <div class="activity" id="ac-ingame" style="display: none;">empty</div>
+      <div class="activity" id="ac-waitForGame">
+        <h1 class="center-title">
+          <div class="spinner">
+            <div class="bounce1"></div>
+            <div class="bounce2"></div>
+            <div class="bounce3"></div>
+          </div>
+        </h1>
+        <!-- <h1 class="center-title">Connecting to CS:GO</h1> -->
+      </div>
+    </div>
+  </div>
+  <div class="bottom-notification" id="err-cs-not-resp" style="display: none;">Cannot connect to csgo. Make sure the game is running!</div>
+</body>
+
+</html>
